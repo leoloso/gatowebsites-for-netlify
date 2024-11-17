@@ -1,0 +1,10 @@
+{
+  "name": "gatowebsites",
+  "version": "3.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/config/*",
+    "packages/shared/*"
+  ]
+}
