@@ -12,10 +12,6 @@
     "deploy-prod": "netlify deploy --build --prod --context production"
   },
   "dependencies": {
-    "@gato/app": "*",
-    "@gato/components": "*",
-    "@gato/data": "*",
-    "@gato/public": "*",
-    "@gato/utils": "*"
+    "next": "^14.1.3"
   }
 }
